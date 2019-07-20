@@ -1,12 +1,5 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Sample - Corporate Business Bootstrap4 HTML5 Template
-    Template URI: site.com
-    Description: Sample - Corporate Business Bootstrap4 HTML5 Template
-    Author: Humayun Ahmed
-    Author URI: site.com
-    Version: 1.0
-
 -----------------------------------------------------------------------------------
 
     CSS INDEX
@@ -119,7 +112,7 @@ p {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  border: 1px solid #55b2ff;
+  border: 1px solid #5468ff;
   padding: 0 40px;
   font-size: 16px;
   line-height: 48px;
@@ -132,18 +125,18 @@ p {
   -ms-transition: all 0.4s ease-out 0s;
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
-  background-color: #55b2ff; }
+  background-color: 5468ff; }
   .main-btn:hover {
     background-color: #fff;
-    color: #55b2ff;
-    border-color: #55b2ff; }
+    color: #5468ff;
+    border-color: #5468ff; }
   .main-btn.main-btn-2 {
     background-color: #fff;
-    color: #55b2ff;
-    border-color: #55b2ff; }
+    color: #5468ff;
+    border-color: #5468ff; }
     .main-btn.main-btn-2:hover {
-      background-color: #55b2ff;
-      border-color: #55b2ff;
+      background-color: #5468ff;
+      border-color: #5468ff;
       color: #fff; }
 
 /*===========================
@@ -212,7 +205,7 @@ p {
           text-transform: uppercase;
           font-weight: 700;
           margin-bottom: 20px;
-          color: #55b2ff; }
+          color: #5468ff; }
           @media only screen and (min-width: 992px) and (max-width: 1200px) {
             .header-area .header-wrapper .header-container .header-content .header-title {
               font-size: 50px; } }
@@ -247,7 +240,7 @@ p {
               line-height: 120px;
               background-color: #f9f9ff;
               border-radius: 5px;
-              color: #55b2ff;
+              color: #5468ff;
               margin-bottom: 10px; }
               @media only screen and (min-width: 992px) and (max-width: 1200px) {
                 .header-area .header-wrapper .header-container .header-content .header-countdown .single-countdown .count-number {
@@ -279,7 +272,7 @@ p {
             height: 60px;
             padding: 0 20px;
             border-radius: 50px;
-            border: 1px solid #55b2ff;
+            border: 1px solid #5468ff;
             color: #56566a;
             font-size: 16px; }
             .header-area .header-wrapper .header-container .header-content .newsletter input.placeholder {
@@ -298,7 +291,7 @@ p {
             width: 160px;
             height: 50px;
             border: 0;
-            background-color: #55b2ff;
+            background-color: #5468ff;
             color: #fff;
             font-weight: 600;
             text-transform: uppercase;
@@ -313,7 +306,7 @@ p {
             -ms-transition: all 0.3s ease-out 0s;
             -o-transition: all 0.3s ease-out 0s;
             transition: all 0.3s ease-out 0s;
-            border: 1px solid #55b2ff; }
+            border: 1px solid #5468ff; }
             @media (max-width: 767px) {
               .header-area .header-wrapper .header-container .header-content .newsletter button {
                 position: relative;
@@ -333,7 +326,7 @@ p {
               -moz-box-shadow: 0px 11px 20px 0px rgba(72, 127, 255, 0.4);
               box-shadow: 0px 11px 20px 0px rgba(72, 127, 255, 0.4);
               background-color: #fff;
-              color: #55b2ff; }
+              color: #5468ff; }
       .header-area .header-wrapper .header-container .social {
         position: absolute;
         bottom: -30px;
@@ -351,6 +344,6 @@ p {
             -o-transition: all 0.3s ease-out 0s;
             transition: all 0.3s ease-out 0s; }
             .header-area .header-wrapper .header-container .social ul li a:hover {
-              color: #55b2ff; }
+              color: #5468ff; }
 
 /*# sourceMappingURL=style.css.map */
